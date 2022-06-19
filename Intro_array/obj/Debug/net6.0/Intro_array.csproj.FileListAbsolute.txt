@@ -1,0 +1,15 @@
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Intro_array\obj\Debug\net6.0\Intro_array.csproj.AssemblyReference.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Intro_array\obj\Debug\net6.0\Intro_array.GeneratedMSBuildEditorConfig.editorconfig
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Intro_array\obj\Debug\net6.0\Intro_array.AssemblyInfoInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Intro_array\obj\Debug\net6.0\Intro_array.AssemblyInfo.cs
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Intro_array\obj\Debug\net6.0\Intro_array.csproj.CoreCompileInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Intro_array\bin\Debug\net6.0\Intro_array.exe
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Intro_array\bin\Debug\net6.0\Intro_array.deps.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Intro_array\bin\Debug\net6.0\Intro_array.runtimeconfig.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Intro_array\bin\Debug\net6.0\Intro_array.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Intro_array\bin\Debug\net6.0\Intro_array.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Intro_array\obj\Debug\net6.0\Intro_array.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Intro_array\obj\Debug\net6.0\refint\Intro_array.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Intro_array\obj\Debug\net6.0\Intro_array.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Intro_array\obj\Debug\net6.0\Intro_array.genruntimeconfig.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Intro_array\obj\Debug\net6.0\ref\Intro_array.dll

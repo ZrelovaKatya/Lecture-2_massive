@@ -1,0 +1,15 @@
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Search_2\obj\Debug\net6.0\Search_2.csproj.AssemblyReference.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Search_2\obj\Debug\net6.0\Search_2.GeneratedMSBuildEditorConfig.editorconfig
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Search_2\obj\Debug\net6.0\Search_2.AssemblyInfoInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Search_2\obj\Debug\net6.0\Search_2.AssemblyInfo.cs
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Search_2\obj\Debug\net6.0\Search_2.csproj.CoreCompileInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Search_2\bin\Debug\net6.0\Search_2.exe
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Search_2\bin\Debug\net6.0\Search_2.deps.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Search_2\bin\Debug\net6.0\Search_2.runtimeconfig.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Search_2\bin\Debug\net6.0\Search_2.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Search_2\bin\Debug\net6.0\Search_2.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Search_2\obj\Debug\net6.0\Search_2.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Search_2\obj\Debug\net6.0\refint\Search_2.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Search_2\obj\Debug\net6.0\Search_2.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Search_2\obj\Debug\net6.0\Search_2.genruntimeconfig.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Search_2\obj\Debug\net6.0\ref\Search_2.dll

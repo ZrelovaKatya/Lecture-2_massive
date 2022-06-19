@@ -1,0 +1,15 @@
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Max\bin\Debug\net6.0\Max.exe
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Max\bin\Debug\net6.0\Max.deps.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Max\bin\Debug\net6.0\Max.runtimeconfig.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Max\bin\Debug\net6.0\Max.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Max\bin\Debug\net6.0\Max.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Max\obj\Debug\net6.0\Max.csproj.AssemblyReference.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Max\obj\Debug\net6.0\Max.GeneratedMSBuildEditorConfig.editorconfig
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Max\obj\Debug\net6.0\Max.AssemblyInfoInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Max\obj\Debug\net6.0\Max.AssemblyInfo.cs
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Max\obj\Debug\net6.0\Max.csproj.CoreCompileInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Max\obj\Debug\net6.0\Max.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Max\obj\Debug\net6.0\refint\Max.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Max\obj\Debug\net6.0\Max.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Max\obj\Debug\net6.0\Max.genruntimeconfig.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture 2\Max\obj\Debug\net6.0\ref\Max.dll
